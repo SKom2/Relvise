@@ -1,0 +1,11 @@
+.menu__link{
+    color: #737373;
+    font-weight: 600;
+    line-height: calc(24 / 14 * 100%);
+}
+
+@media screen and (max-width: 479px) {
+    .menu__link{
+        font-size: 18px;
+    }
+}

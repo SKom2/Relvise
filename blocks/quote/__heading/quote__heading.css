@@ -1,0 +1,8 @@
+.quote__heading{
+    padding: 30px;
+    flex: 1 1 auto;
+}
+
+.quote__heading > *:not(:last-child){
+    margin-bottom: 15px;
+}

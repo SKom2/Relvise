@@ -1,0 +1,12 @@
+.main-block__subtitle{
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+
+@media screen and (max-width: 479px) {
+    .main-block__subtitle{
+        color: #4c4b4b;
+    }
+}

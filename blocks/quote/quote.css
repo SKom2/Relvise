@@ -1,0 +1,7 @@
+.quote{
+    text-align: center;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}

@@ -1,0 +1,15 @@
+.page{
+    min-width: 320px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1;
+    font-weight: 500;
+    font-size: 14px;
+    color: #252B42;
+   -webkit-text-size-adjust: 100%;
+   -ms-text-size-adjust: 100%;
+   -moz-text-size-adjust: 100%;
+   -moz-osx-font-smoothing: grayscale;
+   -webkit-font-smoothing: antialiased;
+   text-rendering: optimizeLegibility; 
+   background-color: #fafafa;
+}

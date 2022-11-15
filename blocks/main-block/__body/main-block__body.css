@@ -1,0 +1,16 @@
+.main-block__body{
+    padding: 184px 0 191px 0;
+    position: relative;
+    z-index: 2;
+    max-width: 400px;
+}
+
+.main-block__body > *:not(last-child){
+    margin: 0 0 35px 0;
+}
+
+@media screen and (max-width: 992px) {
+    .main-block__body{
+        padding-top: 120px;
+    }
+}

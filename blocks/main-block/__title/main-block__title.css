@@ -1,0 +1,12 @@
+.main-block__title{
+    font-weight: 800;
+    font-size: 58px;
+    line-height: 138%;
+    letter-spacing: 0.2px;
+}
+
+@media screen and (max-width: 479px) {
+    .main-block__title{
+        font-size: 42px;
+    }
+}
